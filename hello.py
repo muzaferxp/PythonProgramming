@@ -14,8 +14,7 @@ print(a)
 #==rules to be followed for declaring avariable
 #it should not start with number (1,2..), special characters ($, @...)
 #it should not be a predefined keyword (if else def print)
-#variable names are case sensitive
-#variable names should not contain spaces
+#variables names are case sensitive
 A1234 = "Adam"
 
 """
