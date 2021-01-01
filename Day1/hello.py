@@ -40,6 +40,7 @@ full_name
 #5 tuple - (), (1,2,3,4)
 #6 dict - {"key" : "value" }
 #7 set - {'value1', 'value2', }
+#8 float 1.5
 
 
 
