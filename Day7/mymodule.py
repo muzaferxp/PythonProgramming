@@ -2,7 +2,7 @@
 #2 functions
 #3 classes
 
-
+import sample_module 
 Name = "Sam"
 
 def write_data(data,file_path):
@@ -11,3 +11,6 @@ def write_data(data,file_path):
     for line in data:
         f.write(line + "\n") 
     f.close()
+
+
+sample_module.hello()
